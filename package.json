@@ -1,0 +1,25 @@
+{
+  "name": "cldbcsv",
+  "version": "0.0.1",
+  "description": "A sample nodejs app for Bluemix that use the user info",
+  "author": "IBM Corp.",
+  "contributors": [
+    {
+      "name": "Abhishek",
+      "email": "abkchour@in.ibm.com"
+    }
+  ],
+  "scripts": {
+    "start": "node user.js"
+  },
+  "dependencies": {
+        "body-parser": "^1.15.2",
+        "cfenv": "^1.0.3",
+        "connect-redis": "^3.1.0",
+        "ejs": "2.4.x",
+        "express": "4.13.x",
+        "express-session": "^1.14.0",
+        "https": "^1.0.0",
+        "request": "^2.72.0"
+    }
+}

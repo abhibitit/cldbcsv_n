@@ -13,5 +13,5 @@ making your code available. A good resource for open source licenses is the
 Be sure to update your project's profile with a short description and 
 eye-catching graphic.
 
-Finally, consider defining some sprints and work items in Track & Plan to give 
+Finally1, consider defining some sprints and work items in Track & Plan to give 
 interested developers a sense of your cadence and upcoming enhancements.
